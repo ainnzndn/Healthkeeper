@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823937795440",
+    "firebase_url": "https://healthkeeper-ecc01-default-rtdb.firebaseio.com",
+    "project_id": "healthkeeper-ecc01",
+    "storage_bucket": "healthkeeper-ecc01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823937795440:android:3b6bd8f3f4b77e61f6fbb5",
+        "android_client_info": {
+          "package_name": "com.example.healthkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWmGz-Ilz2U_Xkt5-v-rwk8WMYuDxJYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
